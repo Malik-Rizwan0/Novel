@@ -122,7 +122,7 @@
     object-fit: cover;
   }
 
-  .novel1 OBJECT{
+  .novel1 embed{
     width: 100%;
     max-width: 800px;
     height: 90dvh;
@@ -223,9 +223,10 @@ footer{
     min-width: 250px !important;
     max-width: 300px !important;
 }
-.novel1 iframe{
+.novel1 embed{
   width: 100%;
   max-width: 400px;
   height: 70dvh;
+  min-height: 500px;
 }
 }
