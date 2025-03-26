@@ -122,7 +122,7 @@
     object-fit: cover;
   }
 
-  .novel1 iframe{
+  .novel1 OBJECT{
     width: 100%;
     max-width: 800px;
     height: 90dvh;
