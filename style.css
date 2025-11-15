@@ -139,6 +139,15 @@ p {
   zoom: 1;
   aspect-ratio: 5/7 !important; 
 }
+#novels .card{
+  max-width: 400px;
+  margin: auto ;
+  box-shadow: 0 0.7em 1.5em -0.5em #582710be;
+}
+#novels .card img{
+  width: 100%;
+  max-width: 100% !important;
+}
 
 /* From Uiverse.io by adamgiebl */
 .cssbuttons-io-button2 {
